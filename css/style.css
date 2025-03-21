@@ -161,6 +161,15 @@ p {
   background: #ffc400 !important;
 }
 
+#follow {
+margin: 0px;
+background: e6eeee;
+z-index: 2;
+position: fixed;
+bottom: 20px;
+right: 20px;
+}
+
 #home .btn {
   background: #000000;
   border-color: transparent;
@@ -168,7 +177,7 @@ p {
   font-size: 12px;
   font-weight: bold;
   padding: 14px 52px;
-  margin-top: 40px;
+  margin-top: 5px;
   transition: all 0.4s ease-in-out;
 }
 
